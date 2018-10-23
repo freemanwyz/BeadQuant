@@ -1,0 +1,17 @@
+*.pdf
+*.prf
+*.lsm
+*.exe
+*.dat
+*.rds
+*.docx
+*.doc
+*.csv
+*.zip
+*.tif
+*.tiff
+*.jpg
+*.rar
+.Rproj.user
+.Rhistory
+.RData
